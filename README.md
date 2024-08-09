@@ -21,6 +21,13 @@ Data Cleaning Project on Nashville Housing Data
 
 In this project, the primary objective was to clean and prepare the Nashville Housing Data for analysis. Data cleaning is a crucial step in the data science process, ensuring that the dataset is accurate, consistent, and ready for downstream tasks such as analysis and modeling. The dataset used in this project contained various fields related to property sales in Nashville, including addresses, sale dates, prices, and ownership information. The cleaning process involved standardizing formats, populating missing data, breaking out address information into separate columns, correcting categorical values, removing duplicates, and deleting unnecessary columns.
 
+## Data Source 
+
+Data Link:
+
+https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+
+
 
 # Data Cleaning Process
 
